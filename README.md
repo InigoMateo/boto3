@@ -1,0 +1,1 @@
+With the client, you might see some slight performance improvements. The disadvantage is that your code becomes less readable than it would be if you were using the resource. Resources offer a better abstraction, and your code will be easier to comprehend. 
