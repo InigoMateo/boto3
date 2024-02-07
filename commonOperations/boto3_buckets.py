@@ -13,6 +13,8 @@ will get the following error botocore.errorfactory.BucketAlreadyExists. You can 
 creating your bucket by picking a random name. You can generate your own function that does that for you.
 
 That is why we use uuid function to generate a name for us, along with a prefix at the beginning.
+
+**Creating a bucket makes you owner of that bucket**
 """
 
 

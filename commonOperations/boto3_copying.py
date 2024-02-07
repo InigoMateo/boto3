@@ -19,4 +19,4 @@ def copy_to_bucket(bucket_from_name, bucket_to_name, file_name):
 
 
 # Remember to substitute the names with the original ones
-copy_to_bucket('first_bucket_name', 'second_bucket_name', 'first_file_name')
+# copy_to_bucket('first_bucket_name', 'second_bucket_name', 'first_file_name')
