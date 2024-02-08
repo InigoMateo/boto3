@@ -19,10 +19,13 @@ s3_resource = boto3.resource('s3')
 # https://boto3.amazonaws.com/v1/documentation/api/latest/reference/customizations/s3.html#boto3.s3.transfer.TransferConfig
 
 
-# IMPORTANT:
-# Remember when modifying your object 'ACL' to enable the following options in the bucket.
-# Buckets > 'bucket_name' >  Edit Object Ownership
-# Buckets > 'bucket_name' > Edit Block public access (bucket settings)
+""" 
+IMPORTANT:
+
+Remember when modifying your object 'ACL' to enable the following options in the bucket.
+Buckets > 'bucket_name' >  Edit Object Ownership
+Buckets > 'bucket_name' > Edit Block public access (bucket settings)
+"""
 
 second_file_name = create_temp_file(400, 'secondfile.txt', 's')
 second_object = s3_resource.Object('first_name_bucket', second_file_name)
