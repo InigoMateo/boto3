@@ -7,7 +7,7 @@
 **Credits to:** https://realpython.com/python-boto3-aws-s3/#installation where all the information collected here has been based on.
 
 <p align="center">
-<img src="[https://cdn.romexsoft.com/wp-content/uploads/2019/09/aws-s3-icon.svg](https://www.google.com/url?sa=i&url=https%3A%2F%2Fdev.to%2Faws-builders%2Fgetting-started-with-boto3-a-powerful-and-versatile-aws-sdk-442d&psig=AOvVaw2GqOetHe-uBUFowWCLNKme&ust=1725196409788000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCKCAgM-nn4gDFQAAAAAdAAAAABAJ)" width="200" height="200" />
+<img src="[[https://cdn.romexsoft.com/wp-content/uploads/2019/09/aws-s3-icon.svg](https://www.google.com/url?sa=i&url=https%3A%2F%2Fdev.to%2Faws-builders%2Fgetting-started-with-boto3-a-powerful-and-versatile-aws-sdk-442d&psig=AOvVaw2GqOetHe-uBUFowWCLNKme&ust=1725196409788000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCKCAgM-nn4gDFQAAAAAdAAAAABAJ)](https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fe4kppkfy2639q33qzwks.jpg)" width="200" height="200" />
 </p>
 
 ### Key Features of Boto3:
